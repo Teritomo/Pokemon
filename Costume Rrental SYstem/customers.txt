@@ -1,0 +1,3 @@
+Customers Data File
+ID | Name | Address
+5 | Nayib Bukele | Makagago

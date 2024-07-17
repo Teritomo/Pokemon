@@ -1,0 +1,3 @@
+Costumes Data File
+ID | Name | Size | Fit | NumberOfCopies
+7 | Jumbo Hotdog | 19 | Adult | 68

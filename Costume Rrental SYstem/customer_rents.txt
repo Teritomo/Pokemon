@@ -1,0 +1,3 @@
+Customer Rents Data File
+CustomerID | CostumeID
+5 | 7
